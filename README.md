@@ -30,15 +30,15 @@ Step 7: Save and run the application.
 ```
 /*
 Program to print the contact name and phone number using content providers.
-Developed by:
-Registeration Number :
+Developed by: KISHORE M
+Registeration Number : 212222040079
 */
 ```
-
+##
 ## OUTPUT
 
-
-
+![image](https://github.com/user-attachments/assets/b622590d-87c0-437f-81bc-f42ce64ba037)
+![image](https://github.com/user-attachments/assets/1d9c625e-5543-46e2-abcf-25836ea67a3b)
 
 ## RESULT
 Thus a Simple Android Application create your own content providers to get contacts details using Android Studio is developed and executed successfully.
